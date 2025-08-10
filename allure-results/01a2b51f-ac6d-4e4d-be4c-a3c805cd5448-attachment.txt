@@ -1,0 +1,4 @@
+Failed to click element: TimeoutError: locator.waitFor: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator('div:nth-child(2) > .styles__favCoordinateCardContainer--2jRbh > .styles__likeContainer--L6SLI > .styles__container--3u4Yo > div > svg') to be visible
+

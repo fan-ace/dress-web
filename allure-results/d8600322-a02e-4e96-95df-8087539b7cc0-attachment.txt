@@ -1,0 +1,10 @@
+SSH Key Path: /Users/phantoan5593/Desktop/ForWork/Aircloset/DB
+SSH connection established.
+Database connection established.
+STEP: Query database for test user
+Using MONTHLY user email: stg_2086@air-closet.com
+STEP: Go to Fashion Diagnosis Guide page and open Login popup
+STEP: Verify login with user from database
+Testing login with valid FREE user...
+Database connection closed.
+SSH connection closed.

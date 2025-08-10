@@ -1,0 +1,2 @@
+Failed to fill element: Error: Cannot perform action: Target page, context or browser has been closed
+Cannot take screenshot: Page is closed

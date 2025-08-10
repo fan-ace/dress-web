@@ -1,0 +1,385 @@
+# Page snapshot
+
+```yaml
+- text: これはSTG環境です。この領域をクリックしたら消えます。
+- banner:
+  - link "ファッション（洋服）のサブスク・レンタル エアークローゼット 300ブランドからプロが厳選":
+    - /url: /
+    - heading "ファッション（洋服）のサブスク・レンタル エアークローゼット 300ブランドからプロが厳選" [level=1]:
+      - img "ファッション（洋服）のサブスク・レンタル エアークローゼット 300ブランドからプロが厳選"
+  - img "ログイン"
+  - img "メニュー"
+- main:
+  - img "プロが選ぶコーデが届くairCloset"
+  - img "プロが選ぶコーデが届くairCloset"
+  - img "プロが選ぶコーデが届くairCloset"
+  - img "プロが選ぶコーデが届くairCloset"
+  - heading "プロが選ぶ、 コーデが届く。" [level=2]
+  - link "無料診断を始める":
+    - /url: /fashion-type-diagnosis/
+  - link "今すぐエアクロを始める":
+    - /url: /fashion-type-diagnosis/guide/
+  - paragraph: 登録・診断済みの方はログイン
+  - heading "airCloset" [level=2]:
+    - img "airCloset"
+  - paragraph: プロのスタイリストが "あなたのため"に選んだコーデを ご自宅へ
+  - paragraph: 似合うが見つかる ファッションレンタルサービス
+  - img "女性が選ぶファッション（洋服）のサブスク・レンタル No.1"
+  - paragraph: ※"ファッションサブスクリプションサービス 会社"の検索上位10社から"女性が選ぶ利用したいと思うファッションサブスクサービスを行う会社"を選び1位を抽出、対象：20-50代女性120名(airCloset非利用者含む)、期間：2023年6月2日、出典：株式会社JCマーケティングによるWEB調査
+  - paragraph: 50万着300 ブランドが あなたのもう1つのクローゼットに
+  - list:
+    - listitem
+    - listitem
+    - listitem
+    - listitem
+    - listitem
+    - listitem
+    - listitem
+    - listitem
+    - listitem
+  - link "無料診断を始める":
+    - /url: /fashion-type-diagnosis/
+  - link "今すぐエアクロを始める":
+    - /url: /fashion-type-diagnosis/guide/
+  - heading "毎日のお洋服選びに こんなお悩みありませんか？" [level=2]
+  - list:
+    - listitem: 気づけば 同じような 服ばかり…
+    - listitem: 着回しできるか わからないものに 挑戦しづらい…
+    - listitem: 新しい テイストは 着回しの イメージが 湧きにくい
+  - img "毎日の服選びのお悩み"
+  - paragraph: プロが選ぶコーデが届く
+  - heading "エアクロなら 自分では選ばないコーデと 出会える！" [level=2]
+  - img "エアークローゼットコーディネート1"
+  - img "エアークローゼットコーディネート4"
+  - img "エアークローゼットコーディネート2"
+  - img "エアークローゼットコーディネート5"
+  - img "エアークローゼットコーディネート3"
+  - img "エアークローゼットコーディネート6"
+  - heading "掲載実績" [level=2]
+  - paragraph: 1,000件以上！
+  - img "ファッション（洋服）のサブスク・レンタルNO.1のairCloset掲載実績(TV)"
+  - img "ファッション（洋服）のサブスク・レンタルNO.1のairCloset掲載実績(雑誌)"
+  - img "ファッション（洋服）のサブスク・レンタルNO.1のairClosetは会員数100万人突破"
+  - link "無料診断を始める":
+    - /url: /fashion-type-diagnosis/
+  - link "今すぐエアクロを始める":
+    - /url: /fashion-type-diagnosis/guide/
+  - heading "エアクロが選ばれる 4つのポイント" [level=2]
+  - heading "Point 01" [level=3]
+  - paragraph: わたしの着たい お洋服が たくさん！
+  - img "ファッション（洋服）のサブスク・レンタルNO.1のairClosetのポイント１：わたしの着たいお洋服がたくさん！"
+  - img "ファッション（洋服）のサブスク・レンタルNO.1のairClosetのポイント１：50万着300ブランドが勢揃い"
+  - heading "50万着300ブランドが勢揃い" [level=3]
+  - list:
+    - listitem: XS-3L まで対応
+    - listitem: 146-174cm まで対応
+    - listitem: オンオフ どちらでも
+  - img "Mila Owen(ミラオーウェン)サブスク レンタル"
+  - img "SNIDEL(スナイデル)サブスク レンタル"
+  - img "FRAY I.D(フレイアイディー)サブスク レンタル"
+  - img "NANO universe(ナノユニバース)サブスク レンタル"
+  - img "URBAN RESEARCH ROSSO(アーバンリサーチロッソ)サブスク レンタル"
+  - img "COLLAGE GALLARDAGALANTE(コラージュ ガリャルダガランテ)サブスク レンタル"
+  - img "NATURAL BEAUTY BASIC(ナチュラルビューティーベーシック)サブスク レンタル"
+  - img "NOLLEY'S(ノーリーズ)サブスク レンタル"
+  - img "BARNYARDSTORM(バンヤードストーム)サブスク レンタル"
+  - img "ONWARD(オンワード)サブスク レンタル"
+  - img "ROPE' / ADAM ET ROPE'(ロペ アダムエ ロペ)サブスク レンタル"
+  - img "Mila Owen(ミラオーウェン)サブスク レンタル"
+  - img "SNIDEL(スナイデル)サブスク レンタル"
+  - img "FRAY I.D(フレイアイディー)サブスク レンタル"
+  - img "NANO universe(ナノユニバース)サブスク レンタル"
+  - img "URBAN RESEARCH ROSSO(アーバンリサーチロッソ)サブスク レンタル"
+  - img "COLLAGE GALLARDAGALANTE(コラージュ ガリャルダガランテ)サブスク レンタル"
+  - img "NATURAL BEAUTY BASIC(ナチュラルビューティーベーシック)サブスク レンタル"
+  - img "NOLLEY'S(ノーリーズ)サブスク レンタル"
+  - img "BARNYARDSTORM(バンヤードストーム)サブスク レンタル"
+  - img "ONWARD(オンワード)サブスク レンタル"
+  - img "ROPE' / ADAM ET ROPE'(ロペ アダムエ ロペ)サブスク レンタル"
+  - heading "Point 02" [level=3]
+  - paragraph: プロが選ぶから “本当に似合う”が 見つかる
+  - img "ファッション（洋服）のサブスク・レンタルNO.1のairClosetのポイント２：プロが選ぶから”本当に似合う”が見つかる"
+  - img "スタイリストjuNによる実際のスタイリング例_1"
+  - img "スタイリストjuNによる実際のスタイリング例_2"
+  - paragraph: パーソナルスタイリングで ”あなたに似合う”を提案！
+  - paragraph: 50を超える診断項目
+  - img "50を超えるパーソナルスタンリングの診断項目_1"
+  - img "50を超えるパーソナルスタンリングの診断項目_2"
+  - img "50を超えるパーソナルスタンリングの診断項目_3"
+  - img "50を超えるパーソナルスタンリングの診断項目_4"
+  - heading "Point 03" [level=3]
+  - paragraph: レンタルだから 買わずに たくさん試せる
+  - img "ファッション（洋服）のサブスク・レンタルNO.1のairClosetのポイント３：レンタルだから買わずにたくさん試せる"
+  - img "ファッション（洋服）のサブスク・レンタルNO.1のairClosetのポイント３：1着分の値段で3着以上借りられる"
+  - img "ファッション（洋服）のサブスクでレンタルできるコーディネート例_1"
+  - img "ファッション（洋服）のサブスクでレンタルできるコーディネート例_2"
+  - paragraph: 1着分の値段で 3着以上借りられる
+  - paragraph: 1万円相当のお洋服が
+  - paragraph: ¥7,980(税込)/月の
+  - paragraph: ライトなら
+  - paragraph: 月3着
+  - img "レンタル料金¥7,980/月のライトプラン"
+  - paragraph: ¥10,980(税込)/月の
+  - paragraph: レギュラーなら
+  - paragraph: 借り放題
+  - img "レンタル料金¥7,980/月のレギュラープラン"
+  - heading "Point 04" [level=3]
+  - paragraph: 時短で おしゃれが叶う！ 忙しい女性の ミカタ
+  - img "ファッション（洋服）のサブスク・レンタルNO.1のairClosetのポイント４：時短でおしゃれが叶う！忙しい女性のミカタ"
+  - img "ファッション（洋服）のサブスク・レンタルNO.1のairClosetのポイント４：レンタルなら通常のお買い物よりも楽ちん"
+  - heading "通常の買い物" [level=4]
+  - list:
+    - listitem: 買い物に行く
+    - listitem: 1日がけで 自分で服を探す
+    - listitem: 購入して 着る
+  - heading "airCloset" [level=4]
+  - list:
+    - listitem: 自宅に届く
+    - listitem: スタイリストが コーデ提案
+    - listitem: レンタルして 気に入ったら 購入
+  - img "プロのおかげでおしゃれのセンスが身に付く！"
+  - heading "User Voice" [level=2]
+  - paragraph: ファッションレンタルで おしゃれを満喫！
+  - img "お客様_なみこさん_会社員_31歳"
+  - heading "なみこさん会社員31歳" [level=3]
+  - paragraph: IT企業の人事・総務
+  - img "お客様_なみこさん_会社員_31歳"
+  - paragraph: 毎朝会社に行く服もエアクロが届いた翌朝はそのまま着ていけるんです。
+  - link "more":
+    - /url: /voice/case3/
+  - img "お客様_ゆかさん_講師_40歳"
+  - heading "ゆかさん講師40歳" [level=3]
+  - paragraph: フラダンススクール指導者
+  - img "お客様_ゆかさん_講師_40歳"
+  - paragraph: 白いパンツを敬遠していましたが、実際に履くと似合うことがわかりました！
+  - link "more":
+    - /url: /voice/case2/
+  - img "お客様_すずくんママさん_サロン勤務_27歳"
+  - heading "すずくんママさんサロン勤務27歳" [level=3]
+  - paragraph: 夫と子供の3人暮らし
+  - img "お客様_すずくんママさん_サロン勤務_27歳"
+  - paragraph: 慌ただしい日常の中でもファッションを楽しむ余裕が生まれました。
+  - link "more":
+    - /url: /voice/case4/
+  - img "お客様_ゆかりさん_会社員_33歳"
+  - heading "ゆかりさん会社員33歳" [level=3]
+  - paragraph: 夫と2人暮らし
+  - img "お客様_ゆかりさん_会社員_33歳"
+  - paragraph: 何人もの同僚から「その服いいね」と言われるようになりました。
+  - link "more":
+    - /url: /voice/case1/
+  - link "無料診断を始める":
+    - /url: /fashion-type-diagnosis/
+  - link "今すぐエアクロを始める":
+    - /url: /fashion-type-diagnosis/guide/
+  - iframe
+  - heading "レンタルの流れ" [level=2]
+  - paragraph: ご利用ステップ
+  - paragraph: おうちで待つだけ！返却も簡単！
+  - list:
+    - listitem:
+      - img "ファッション（洋服）のサブスク・レンタルNO.1のairClosetのご利用ステップ01_プロのスタイリストがあなたのためにスタイリング"
+      - text: "01"
+      - paragraph: プロがあなたのためにスタイリング
+    - listitem:
+      - img "レンタルアイテムを約3~5日でご自宅へお届け"
+      - text: "02"
+      - paragraph: 約3~5日でご自宅へお届け
+    - listitem:
+      - img "サブスクなので返却期限はなし！好きなだけ着る"
+      - text: "03"
+      - paragraph: 返却期限なし！好きなだけ着る
+    - listitem:
+      - img "レンタルアイテムの交換or購入"
+      - text: "04"
+      - paragraph: 交換 or 購入
+  - link "無料診断を始める":
+    - /url: /fashion-type-diagnosis/
+  - link "今すぐエアクロを始める":
+    - /url: /fashion-type-diagnosis/guide/
+  - heading "Option" [level=2]
+  - paragraph: オプションサービスを つけてもっと楽しめる
+  - img "ファッション（洋服）のサブスク・レンタルNO.1のairClosetオプション_ブランドセレクトオプション"
+  - heading "ブランドセレクト" [level=3]
+  - img "卒入学セレクト"
+  - heading "卒入学セレクト" [level=3]
+  - img "ワンセレクトオプション"
+  - heading "ワンセレクト" [level=3]
+  - img "スタイリスト指名オプション"
+  - heading "スタイリスト指名" [level=3]
+  - img "アクセサリーオプション"
+  - heading "アクセサリー" [level=3]
+  - img "ダブルレンタルオプション"
+  - heading "ダブルレンタル" [level=3]
+  - link "無料診断を始める":
+    - /url: /fashion-type-diagnosis/
+  - link "今すぐエアクロを始める":
+    - /url: /fashion-type-diagnosis/guide/
+  - text: more
+  - heading "もっと知りたい！" [level=2]
+  - paragraph:
+    - img "ファッション（洋服）のサブスク・レンタルサービスairClosetについて"
+  - heading "はじめてのご利用でも 安心のサポート体制" [level=3]
+  - heading "お届け前" [level=4]
+  - paragraph: 事前にスタイリング方針を 確認させていただきます！
+  - img "レンタル前にスタイリング方針を確認できる"
+  - img "矢印"
+  - heading "お届け後" [level=4]
+  - paragraph: お電話でのサポートもします！
+  - img "はじめてのレンタル後にはお電話のサポートもします！"
+  - paragraph: お客様の困りごとやお悩みに合わせて、 ご案内させていただきます。
+  - heading "自宅でもコンビニでも 受け取り・返却は簡単" [level=3]
+  - heading "お受け取り" [level=4]
+  - list:
+    - listitem:
+      - img "レンタルアイテムの受け取りはご自宅でも"
+      - paragraph: ご自宅へ お届け
+    - listitem:
+      - img "レンタルアイテムの受け取りはコンビニでも"
+      - paragraph: コンビニで 受取可
+    - listitem:
+      - img "受け取りの時間指定も可"
+      - paragraph: 時間 指定可
+    - listitem:
+      - img "日本中どこでも"
+      - paragraph: 日本中 どこでも
+  - heading "ご返却" [level=4]
+  - list:
+    - listitem:
+      - img "レンタルアイテムはご自宅まで集荷"
+      - paragraph: ご自宅まで 集荷
+    - listitem:
+      - img "レンタルアイテムはコンビニで返却可"
+      - paragraph: コンビニで 返却可
+    - listitem:
+      - img "梱包材の必要なし"
+      - paragraph: 梱包材の 必要なし
+    - listitem:
+      - img "レンタルアイテムのクリーニングは不要"
+      - paragraph: クリーニング 不要
+  - heading "キレイなお洋服が 届いて安心" [level=3]
+  - heading "クリーニング工場を完備" [level=4]
+  - img "最新鋭のクリーニング"
+  - paragraph: 最新鋭のクリーニングで
+  - paragraph:
+    - text: 除菌率99.9%
+    - superscript: ※
+  - paragraph: ※クリーニング時、 99.9%除菌可能な洗剤を利用
+  - paragraph: 受取時 クリーニング済みの キレイな服が届く
+  - img "クリーニング済みのキレイなレンタル服が届く"
+  - img "レンタルアイテムはクリーニング不要でそのまま返却"
+  - paragraph: 返却時 クリーニング不要で そのまま返却
+  - paragraph: もしもご利用中に 汚してしまっても大丈夫！
+  - img "矢印"
+  - heading "無償のクリーニング基準" [level=4]
+  - heading "食べ物のシミ" [level=5]
+  - list:
+    - listitem:
+      - img "OK小さなシミ"
+      - paragraph: OK
+      - paragraph: 小さいシミ
+    - listitem:
+      - img "NG大きいシミ"
+      - paragraph: NG
+      - paragraph: 大きいシミ
+  - heading "ほつれ" [level=5]
+  - list:
+    - listitem:
+      - img "OK縫い糸のほつれ"
+      - paragraph: OK
+      - paragraph: 縫い糸の ほつれ
+    - listitem:
+      - img "NG生地のほつれ破れ"
+      - paragraph: NG
+      - paragraph: 生地のほつれ 破れ
+  - heading "装飾品の取れ" [level=5]
+  - list:
+    - listitem:
+      - img "OKパーツあり"
+      - paragraph: OK
+      - paragraph: パーツあり
+    - listitem:
+      - img "NGパーツなし"
+      - paragraph: NG
+      - paragraph: パーツなし
+  - img "高額な弁償もなし"
+  - heading "高額な弁償もなし" [level=5]
+  - paragraph: 万が一大幅な破損があった場合でも、最大でお洋服価格の10％までの弁償金となり、高額な弁済はございません。
+  - heading "気に入ったお洋服はレンタル後、 購入もできる" [level=3]
+  - img "気に入ったお洋服はレンタル後、購入もできる"
+  - paragraph: 販売価格よりお得なお値段で！ プロのアドバイスも
+  - heading "ファッションレンタルだから サステナブル" [level=3]
+  - img "シェアリングサスティナブル_お洋服をシェアする循環型モデルで実現"
+  - paragraph: お洋服をシェアする循環型モデルで実現
+  - list:
+    - listitem:
+      - paragraph: 廃棄物 排出量 27％削減
+    - listitem:
+      - paragraph: CO2 19%削減
+    - listitem:
+      - paragraph: 衣服廃棄 ゼロ
+  - paragraph: ぜひスタイリストのいる生活を 始めてみませんか？
+  - iframe
+  - heading "ファッションレンタルの よくある質問" [level=2]
+  - term:
+    - text: 利用者の年齢層は？
+    - button
+    - text: Q.
+  - term:
+    - text: 気に入らないお洋服が届くこともある？
+    - button
+    - text: Q.
+  - term:
+    - text: 着てみたいコーデをリクエストできる？
+    - button
+    - text: Q.
+  - term:
+    - text: 妊娠中でも使える？
+    - button
+    - text: Q.
+  - term:
+    - text: 追加費用は？
+    - button
+    - text: Q.
+  - link "無料診断を始める":
+    - /url: /fashion-type-diagnosis/
+  - link "今すぐエアクロを始める":
+    - /url: /fashion-type-diagnosis/guide/
+- contentinfo:
+  - link "ファッション（洋服）のサブスク・レンタル エアークローゼット 300ブランドからプロが厳選":
+    - /url: /
+    - img "ファッション（洋服）のサブスク・レンタル エアークローゼット 300ブランドからプロが厳選"
+  - list:
+    - listitem:
+      - link "サービス利用規約":
+        - /url: /member-agreement/free/
+    - listitem:
+      - link "特定商取引法に基づく表記":
+        - /url: /trade/
+    - listitem:
+      - link "月額会員規約":
+        - /url: /member-agreement/monthly/
+    - listitem:
+      - link "運営会社":
+        - /url: https://corp.air-closet.com/
+    - listitem:
+      - link "セキュリティーポリシー":
+        - /url: /security/
+    - listitem:
+      - link "よくあるご質問":
+        - /url: https://help.air-closet.com/ja
+    - listitem:
+      - link "プライバシーポリシー":
+        - /url: https://corp.air-closet.com/privacy-policy/
+  - paragraph: 関連サービス
+  - link "結婚式・二次会向けのパーティードレスレンタルはエアクロドレス":
+    - /url: https://www.air-closet.com/dress/
+    - img "結婚式・二次会向けのパーティードレスレンタルはエアクロドレス"
+  - link "ディズニーアイテムのファッションレンタル":
+    - /url: https://disney.air-closet.com/
+    - img "ディズニーアイテムのファッションレンタル"
+  - link "エアクロモール メーカー公認の家電レンタル サブスク型でお試し":
+    - /url: https://mall.air-closet.com/
+    - img "エアクロモール メーカー公認の家電レンタル サブスク型でお試し"
+  - paragraph: © airCloset, Inc.
+```

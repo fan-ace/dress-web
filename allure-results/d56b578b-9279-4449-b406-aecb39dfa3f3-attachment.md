@@ -1,0 +1,41 @@
+# Page snapshot
+
+```yaml
+- link "ファッション（洋服）サブスク・レンタルサービスのエアークローゼット":
+  - /url: /
+  - img "ファッション（洋服）サブスク・レンタルサービスのエアークローゼット"
+- img "stylist"
+- heading "airClosetへようこそ！" [level=4]
+- paragraph: はじめまして。airClosetスタイリストです。
+- paragraph: これからairClosetの登録が始まります！
+- button "LINEで無料登録する":
+  - paragraph: LINEで無料登録する
+- button "登録済みの方はログイン"
+- text: もしくは
+- button "メールで無料登録する":
+  - paragraph: メールで無料登録する
+- link "利用規約":
+  - /url: /member-agreement/free/
+- text: と
+- link "プライバシー":
+  - /url: /privacy/policy/
+- text: に同意する × ログイン
+- paragraph: 会員ページをご覧いただくには
+- paragraph: 再度ログインが必要です。
+- text: LINEでログイン もしくは
+- textbox "メールアドレス": stg_2086@air-closet.com
+- textbox "パスワード": aircloset
+- text: 表示
+- button "メールでログイン"
+- text: Appleでサインイン
+- list:
+  - listitem:
+    - text: パスワードをお忘れの方は
+    - link "こちら":
+      - /url: /forget-password/
+  - listitem:
+    - text: 初めてのご利用ですか？無料会員登録は
+    - link "こちら":
+      - /url: /fashion-type-diagnosis/
+  - listitem: うまくログインできない方は こちら
+```

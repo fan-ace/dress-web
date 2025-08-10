@@ -1,0 +1,1 @@
+[FashionTypeDiagnosisPage] Header banner not visible or already closed

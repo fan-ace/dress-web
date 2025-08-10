@@ -1,0 +1,71 @@
+# Page snapshot
+
+```yaml
+- paragraph: Q1
+- paragraph: airClosetで着てみたい雰囲気に近いコーデにハートをつけてください
+- paragraph: 必須
+- paragraph: ※複数選択可
+- paragraph
+- img "1"
+- img
+- paragraph
+- img "2"
+- img
+- paragraph
+- img "3"
+- img
+- paragraph
+- img "4"
+- img
+- paragraph
+- img "5"
+- img
+- paragraph
+- img "6"
+- img
+- paragraph
+- img "7"
+- img
+- paragraph
+- img "8"
+- img
+- paragraph
+- img "9"
+- img
+- paragraph
+- img "10"
+- img
+- paragraph
+- img "11"
+- img
+- paragraph
+- img "12"
+- img
+- paragraph
+- img "13"
+- img
+- paragraph
+- img "14"
+- img
+- paragraph
+- img "15"
+- img
+- paragraph
+- img "16"
+- img
+- paragraph
+- img "17"
+- img
+- paragraph
+- img "18"
+- img
+- paragraph
+- img "19"
+- img
+- paragraph
+- img "20"
+- img
+- paragraph
+- button
+- button "次へ"
+```

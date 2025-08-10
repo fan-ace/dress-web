@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Ignored tests",
+        "matchedStatuses": [
+            "skipped"
+        ]
+    },
+    {
+        "name": "Infrastructure Problems",
+        "matchedStatuses": [
+            "broken",
+            "failed"
+        ],
+        "messageRegex": ".*Network.*|.*Connection.*|.*Timeout.*|.*Browser.*|.*WebDriver.*"
+    },
+    {
+        "name": "Assertion Failures",
+        "matchedStatuses": [
+            "failed"
+        ],
+        "messageRegex": ".*expect.*|.*AssertionError.*|.*should.*"
+    },
+    {
+        "name": "Login Issues",
+        "matchedStatuses": [
+            "broken",
+            "failed"
+        ],
+        "messageRegex": ".*login.*|.*authentication.*|.*auth.*|.*LINE.*"
+    },
+    {
+        "name": "UI Element Problems",
+        "matchedStatuses": [
+            "broken",
+            "failed"
+        ],
+        "messageRegex": ".*locator.*|.*element.*not.*found.*|.*timeout.*waiting for.*"
+    },
+    {
+        "name": "Other Defects",
+        "matchedStatuses": [
+            "failed"
+        ],
+        "traceRegex": ".*"
+    },
+    {
+        "name": "Product Defects",
+        "matchedStatuses": [
+            "failed"
+        ]
+    },
+    {
+        "name": "Test Defects",
+        "matchedStatuses": [
+            "broken"
+        ]
+    }
+]

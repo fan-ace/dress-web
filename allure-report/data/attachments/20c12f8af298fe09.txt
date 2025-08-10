@@ -1,0 +1,25 @@
+✓ Login popup is displayed correctly
+Testing invalid email formats...
+Testing invalid email format: userexample.com
+Testing invalid email format: username@
+Testing invalid email format: @domain.com
+Testing invalid email format: user name@domain.com
+Testing invalid email format: user<>name@domain.com
+Testing invalid email format: user@domain
+Testing invalid email format: user@.com
+Testing invalid email format: user@domain..com
+✓ All invalid email formats validated correctly
+Testing login with non-existent email...
+✓ Login with non-existent email "nonexistent_1753584167203@example.com" failed as expected
+Testing login with invalid user credentials...
+✓ Login with invalid credentials (abcfgh@air-closet.com) failed as expected
+Testing submit button state with various input combinations...
+✓ Button is disabled with no input
+✓ Button is disabled with only email
+✓ Button is disabled with only password
+✓ Button is enabled with both fields
+Testing valid email formats...
+Testing valid email format: user@example.com
+Testing valid email format: user.name@example.com
+Testing valid email format: user-name@example.com
+✓ All valid email formats accepted correctly

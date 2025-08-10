@@ -1,0 +1,1 @@
+STEP: Navigate to and open login popup
